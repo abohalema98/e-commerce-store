@@ -1,3 +1,3 @@
 # MegaStore
 
-E Commerce Project
+e-commerce Project
